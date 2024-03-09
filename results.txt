@@ -1,0 +1,1010 @@
+Epoch 0/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 3.282834768295288 detector_loss: 0.9948422312736511 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 2.287992477416992 of 242 nums
+STARTING PHASE: val
+saving model for epoch 0...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 3.1206517219543457 detector_loss: 0.9935065507888794 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 2.127145290374756 of 26 nums
+Epoch 1/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.23it/s]
+train overall loss: 3.1233060359954834 detector_loss: 0.9701130986213684 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 2.1531929969787598 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 3.0296826362609863 detector_loss: 0.9486421346664429 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 2.081040382385254 of 26 nums
+Epoch 2/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 2.9985945224761963 detector_loss: 0.9531140923500061 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 2.045480489730835 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 2.6053128242492676 detector_loss: 0.9636727571487427 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 1.6416399478912354 of 26 nums
+Epoch 3/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 2.3469104766845703 detector_loss: 0.9651798009872437 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 1.3817307949066162 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.26s/it]
+val overall loss: 2.0383963584899902 detector_loss: 0.9290224313735962 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 1.1093738079071045 of 26 nums
+Epoch 4/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 1.9058403968811035 detector_loss: 0.9225248098373413 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.9833155274391174 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 1.7968559265136719 detector_loss: 0.9029874801635742 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.8938685059547424 of 26 nums
+Epoch 5/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.20it/s]
+train overall loss: 1.6927509307861328 detector_loss: 0.912846028804779 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.779904842376709 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 1.6217105388641357 detector_loss: 0.9087375402450562 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.7129729986190796 of 26 nums
+Epoch 6/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.5968601703643799 detector_loss: 0.9090712070465088 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.6877890229225159 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 1.5695781707763672 detector_loss: 0.8992932438850403 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.6702848672866821 of 26 nums
+Epoch 7/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.24it/s]
+train overall loss: 1.5265573263168335 detector_loss: 0.9094948768615723 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.6170624494552612 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 1.5284538269042969 detector_loss: 0.897283673286438 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.6311701536178589 of 26 nums
+Epoch 8/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 1.5026271343231201 detector_loss: 0.9044874310493469 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.598139762878418 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 1.437791109085083 detector_loss: 0.8951877355575562 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.5426034331321716 of 26 nums
+Epoch 9/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.28it/s]
+train overall loss: 1.461991310119629 detector_loss: 0.9047718644142151 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.5572195053100586 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 1.4217106103897095 detector_loss: 0.8952175974845886 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.5264930129051208 of 26 nums
+Epoch 10/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 1.3975341320037842 detector_loss: 0.9031104445457458 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.4944237470626831 of 242 nums
+STARTING PHASE: val
+saving model for epoch 10...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 1.3409589529037476 detector_loss: 0.89509117603302 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.4458678066730499 of 26 nums
+Epoch 11/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.24it/s]
+train overall loss: 1.339176058769226 detector_loss: 0.9050324559211731 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.4341435730457306 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 1.3087794780731201 detector_loss: 0.8897459506988525 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.4190334975719452 of 26 nums
+Epoch 12/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 1.3130911588668823 detector_loss: 0.9010945558547974 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.41199660301208496 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 1.3167788982391357 detector_loss: 0.9137647151947021 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.4030141234397888 of 26 nums
+Epoch 13/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.2762451171875 detector_loss: 0.899238646030426 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3770064115524292 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.39s/it]
+val overall loss: 1.2604135274887085 detector_loss: 0.8890281319618225 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3713854253292084 of 26 nums
+Epoch 14/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 1.2488356828689575 detector_loss: 0.894157886505127 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.35467782616615295 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 1.2229315042495728 detector_loss: 0.8799111843109131 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.34302031993865967 of 26 nums
+Epoch 15/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 1.2324352264404297 detector_loss: 0.9017927050590515 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3306425213813782 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:04<00:00,  1.24s/it]
+val overall loss: 1.229962706565857 detector_loss: 0.8825795650482178 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.34738314151763916 of 26 nums
+Epoch 16/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.2048765420913696 detector_loss: 0.8926582932472229 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3122182786464691 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 1.1980445384979248 detector_loss: 0.8884566426277161 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.30958783626556396 of 26 nums
+Epoch 17/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 1.1670687198638916 detector_loss: 0.881649374961853 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2854192852973938 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.25s/it]
+val overall loss: 1.1846449375152588 detector_loss: 0.8639635443687439 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3206813633441925 of 26 nums
+Epoch 18/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 1.1654876470565796 detector_loss: 0.8972980380058289 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2681896388530731 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 1.1666855812072754 detector_loss: 0.8726981282234192 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2939873933792114 of 26 nums
+Epoch 19/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.1556161642074585 detector_loss: 0.8909006118774414 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2647155225276947 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 1.1676199436187744 detector_loss: 0.8605034351348877 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3071165382862091 of 26 nums
+Epoch 20/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.19it/s]
+train overall loss: 1.1261392831802368 detector_loss: 0.8728113770484924 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.253327876329422 of 242 nums
+STARTING PHASE: val
+saving model for epoch 20...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 1.1527166366577148 detector_loss: 0.8522701263427734 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.3004465401172638 of 26 nums
+Epoch 21/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.19it/s]
+train overall loss: 1.1021095514297485 detector_loss: 0.865492045879364 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2366175353527069 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 1.1479527950286865 detector_loss: 0.8481916189193726 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2997611165046692 of 26 nums
+Epoch 22/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.1047639846801758 detector_loss: 0.8659029603004456 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.23886096477508545 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 1.1848963499069214 detector_loss: 0.9009608626365662 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2839354872703552 of 26 nums
+Epoch 23/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.18it/s]
+train overall loss: 1.0698202848434448 detector_loss: 0.8574968576431274 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.212323397397995 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 1.0910885334014893 detector_loss: 0.8410542607307434 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.25003427267074585 of 26 nums
+Epoch 24/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.19it/s]
+train overall loss: 1.045221209526062 detector_loss: 0.8445290923118591 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2006920874118805 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.26s/it]
+val overall loss: 1.1403756141662598 detector_loss: 0.8674013614654541 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2729741930961609 of 26 nums
+Epoch 25/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 1.0483455657958984 detector_loss: 0.849122941493988 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1992226392030716 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 1.109239935874939 detector_loss: 0.83589768409729 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2733422815799713 of 26 nums
+Epoch 26/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.29it/s]
+train overall loss: 1.0240886211395264 detector_loss: 0.8368769288063049 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.18721166253089905 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 1.1143134832382202 detector_loss: 0.8578799962997437 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.25643351674079895 of 26 nums
+Epoch 27/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.0181611776351929 detector_loss: 0.8368855118751526 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1812756508588791 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 1.0736732482910156 detector_loss: 0.8256884217262268 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.24798478186130524 of 26 nums
+Epoch 28/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 1.0005589723587036 detector_loss: 0.8365934491157532 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16396553814411163 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 1.0800590515136719 detector_loss: 0.8343996405601501 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.24565942585468292 of 26 nums
+Epoch 29/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.9913244843482971 detector_loss: 0.8259141445159912 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16541032493114471 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 1.0360760688781738 detector_loss: 0.8198244571685791 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2162516713142395 of 26 nums
+Epoch 30/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.9786860346794128 detector_loss: 0.8163910508155823 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16229498386383057 of 242 nums
+STARTING PHASE: val
+saving model for epoch 30...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 1.0226671695709229 detector_loss: 0.8067166209220886 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.21595057845115662 of 26 nums
+Epoch 31/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.9633162021636963 detector_loss: 0.8096004128456116 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15371578931808472 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 1.0354843139648438 detector_loss: 0.8047304749488831 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2307537943124771 of 26 nums
+Epoch 32/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.9587749242782593 detector_loss: 0.8110268115997314 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14774814248085022 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 1.0658081769943237 detector_loss: 0.8340141773223877 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.23179401457309723 of 26 nums
+Epoch 33/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.9520429372787476 detector_loss: 0.8107219338417053 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14132098853588104 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 1.009506344795227 detector_loss: 0.7978583574295044 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.21164795756340027 of 26 nums
+Epoch 34/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.9317169189453125 detector_loss: 0.7898919582366943 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14182496070861816 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.9869171380996704 detector_loss: 0.782595694065094 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.20432144403457642 of 26 nums
+Epoch 35/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.91851806640625 detector_loss: 0.7867580056190491 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13176004588603973 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.9890714883804321 detector_loss: 0.7721662521362305 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.21690522134304047 of 26 nums
+Epoch 36/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.934207558631897 detector_loss: 0.7978904247283936 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1363171637058258 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 1.0038185119628906 detector_loss: 0.7903722524642944 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.21344631910324097 of 26 nums
+Epoch 37/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.9096893072128296 detector_loss: 0.7779621481895447 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1317271590232849 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.25s/it]
+val overall loss: 0.9747527837753296 detector_loss: 0.7653969526290894 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.20935583114624023 of 26 nums
+Epoch 38/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.23it/s]
+train overall loss: 0.9036675691604614 detector_loss: 0.7851334810256958 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.11853410303592682 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.43s/it]
+val overall loss: 0.9908936023712158 detector_loss: 0.7961668372154236 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.19472679495811462 of 26 nums
+Epoch 39/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.20it/s]
+train overall loss: 0.9012641906738281 detector_loss: 0.7799779772758484 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.12128618359565735 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.9921445846557617 detector_loss: 0.7805849313735962 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.21155966818332672 of 26 nums
+Epoch 40/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.8894734382629395 detector_loss: 0.77573561668396 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.11373784393072128 of 242 nums
+STARTING PHASE: val
+saving model for epoch 40...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.25s/it]
+val overall loss: 0.9433097839355469 detector_loss: 0.7555873394012451 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.18772244453430176 of 26 nums
+Epoch 41/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.8810887932777405 detector_loss: 0.7678728103637695 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.11321599036455154 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.26s/it]
+val overall loss: 0.961685299873352 detector_loss: 0.7560074329376221 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.2056778520345688 of 26 nums
+Epoch 42/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.860708475112915 detector_loss: 0.75690096616745 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.10380750894546509 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 0.9578353762626648 detector_loss: 0.7567364573478699 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.20109893381595612 of 26 nums
+Epoch 43/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.20it/s]
+train overall loss: 0.8712084889411926 detector_loss: 0.7655686736106873 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.10563981533050537 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.41s/it]
+val overall loss: 0.9486544132232666 detector_loss: 0.7466715574264526 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.20198284089565277 of 26 nums
+Epoch 44/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.8565633893013 detector_loss: 0.7544291615486145 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.10213421285152435 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 0.9319083094596863 detector_loss: 0.7360928058624268 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.19581550359725952 of 26 nums
+Epoch 45/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.20it/s]
+train overall loss: 0.8558125495910645 detector_loss: 0.7646968364715576 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.09111572057008743 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 0.9400034546852112 detector_loss: 0.7609463334083557 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17905710637569427 of 26 nums
+Epoch 46/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.24it/s]
+train overall loss: 0.8493961095809937 detector_loss: 0.7546472549438477 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0947488322854042 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 0.9222999811172485 detector_loss: 0.7388363480567932 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1834636628627777 of 26 nums
+Epoch 47/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.20it/s]
+train overall loss: 0.8416138291358948 detector_loss: 0.7481077313423157 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0935061052441597 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.9507275819778442 detector_loss: 0.7576874494552612 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1930401623249054 of 26 nums
+Epoch 48/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.8488080501556396 detector_loss: 0.7541329264640808 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.09467515349388123 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 0.909516453742981 detector_loss: 0.7344646453857422 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17505179345607758 of 26 nums
+Epoch 49/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:23<00:00,  1.30it/s]
+train overall loss: 0.8403010964393616 detector_loss: 0.74443519115448 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.09586592763662338 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.8957116603851318 detector_loss: 0.7300682067871094 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16564348340034485 of 26 nums
+Epoch 50/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.8364916443824768 detector_loss: 0.750769317150116 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.08572234213352203 of 242 nums
+STARTING PHASE: val
+saving model for epoch 50...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.924619197845459 detector_loss: 0.7470455169677734 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17757371068000793 of 26 nums
+Epoch 51/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.8341501951217651 detector_loss: 0.7442508339881897 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.08989933878183365 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.29s/it]
+val overall loss: 0.9189280271530151 detector_loss: 0.7408953309059143 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17803266644477844 of 26 nums
+Epoch 52/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.8235682249069214 detector_loss: 0.7384339570999146 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.08513423800468445 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.38s/it]
+val overall loss: 0.8934125900268555 detector_loss: 0.7101306915283203 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.18328192830085754 of 26 nums
+Epoch 53/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.19it/s]
+train overall loss: 0.8031606674194336 detector_loss: 0.7265834808349609 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.07657720148563385 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.8983050584793091 detector_loss: 0.730810284614563 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16749480366706848 of 26 nums
+Epoch 54/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.29it/s]
+train overall loss: 0.8170425891876221 detector_loss: 0.7415906190872192 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.07545199245214462 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.9573258757591248 detector_loss: 0.7503340244293213 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.20699185132980347 of 26 nums
+Epoch 55/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.791975736618042 detector_loss: 0.7214792370796204 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.07049652934074402 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 0.9048853516578674 detector_loss: 0.7300693988800049 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17481595277786255 of 26 nums
+Epoch 56/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.7983323931694031 detector_loss: 0.7310065031051636 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0673258975148201 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 0.9159026145935059 detector_loss: 0.7328931093215942 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.183009535074234 of 26 nums
+Epoch 57/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.23it/s]
+train overall loss: 0.792298436164856 detector_loss: 0.7232896089553833 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.06900880485773087 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 0.8871440887451172 detector_loss: 0.7133690714836121 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17377504706382751 of 26 nums
+Epoch 58/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7788338661193848 detector_loss: 0.7128231525421143 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0660107433795929 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 0.8645361065864563 detector_loss: 0.7041712403297424 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16036485135555267 of 26 nums
+Epoch 59/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7930843830108643 detector_loss: 0.7248651385307312 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.06821921467781067 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.38s/it]
+val overall loss: 0.8836508393287659 detector_loss: 0.7158225178718567 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16782832145690918 of 26 nums
+Epoch 60/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.8059982061386108 detector_loss: 0.7343458533287048 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0716523751616478 of 242 nums
+STARTING PHASE: val
+saving model for epoch 60...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 0.907271683216095 detector_loss: 0.7244567275047302 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.18281497061252594 of 26 nums
+Epoch 61/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.7836734056472778 detector_loss: 0.7195888757705688 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.06408455967903137 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8962459564208984 detector_loss: 0.7201951146125793 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1760508418083191 of 26 nums
+Epoch 62/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.19it/s]
+train overall loss: 0.774968683719635 detector_loss: 0.7125502824783325 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.062418390065431595 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 0.8811147809028625 detector_loss: 0.7005305886268616 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.18058417737483978 of 26 nums
+Epoch 63/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.7887994050979614 detector_loss: 0.7260112762451172 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.06278814375400543 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.38s/it]
+val overall loss: 0.8866415023803711 detector_loss: 0.7127516865730286 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17388978600502014 of 26 nums
+Epoch 64/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.7678669691085815 detector_loss: 0.7137920260429382 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0540749728679657 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.8994258046150208 detector_loss: 0.7358930110931396 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1635327935218811 of 26 nums
+Epoch 65/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7597615718841553 detector_loss: 0.7046464681625366 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.05511511489748955 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 0.8788672685623169 detector_loss: 0.7037854790687561 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1750817894935608 of 26 nums
+Epoch 66/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.7580662369728088 detector_loss: 0.7019814252853394 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.056084830313920975 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.8731452822685242 detector_loss: 0.7061191201210022 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16702614724636078 of 26 nums
+Epoch 67/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.7589811086654663 detector_loss: 0.7016288042068481 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.05735233053565025 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.8751446008682251 detector_loss: 0.7202475070953369 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1548970639705658 of 26 nums
+Epoch 68/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.23it/s]
+train overall loss: 0.7541033029556274 detector_loss: 0.7004951238632202 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.05360814929008484 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 0.8645061254501343 detector_loss: 0.6986450552940369 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1658610701560974 of 26 nums
+Epoch 69/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.7499120235443115 detector_loss: 0.6958045363426208 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.05410749837756157 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 0.8675891160964966 detector_loss: 0.6975253224372864 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17006376385688782 of 26 nums
+Epoch 70/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.28it/s]
+train overall loss: 0.7521368861198425 detector_loss: 0.6980733871459961 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.054063476622104645 of 242 nums
+STARTING PHASE: val
+saving model for epoch 70...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 0.8674802780151367 detector_loss: 0.6907113790512085 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17676891386508942 of 26 nums
+Epoch 71/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7429584860801697 detector_loss: 0.6932402849197388 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04971817880868912 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 0.8485850095748901 detector_loss: 0.7154313325881958 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13315370678901672 of 26 nums
+Epoch 72/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7557409405708313 detector_loss: 0.7019580602645874 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0537828765809536 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 0.8481410145759583 detector_loss: 0.6819591522216797 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16618186235427856 of 26 nums
+Epoch 73/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.7372643351554871 detector_loss: 0.6855574250221252 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.051706936210393906 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.8745615482330322 detector_loss: 0.7148160338401794 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15974554419517517 of 26 nums
+Epoch 74/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.23it/s]
+train overall loss: 0.7401607036590576 detector_loss: 0.6863042712211609 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.053856443613767624 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8924515843391418 detector_loss: 0.7310066223144531 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16144496202468872 of 26 nums
+Epoch 75/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7391809821128845 detector_loss: 0.6894540786743164 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.049726903438568115 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 0.8751684427261353 detector_loss: 0.7139437198638916 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16122475266456604 of 26 nums
+Epoch 76/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.7342924475669861 detector_loss: 0.6857888102531433 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.048503629863262177 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 0.8575423955917358 detector_loss: 0.7103252410888672 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14721713960170746 of 26 nums
+Epoch 77/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.7206119894981384 detector_loss: 0.6726367473602295 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04797522723674774 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 0.8531655073165894 detector_loss: 0.6935707926750183 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15959468483924866 of 26 nums
+Epoch 78/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.721037745475769 detector_loss: 0.6776022911071777 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04343542829155922 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 0.8465173244476318 detector_loss: 0.6883836984634399 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1581336110830307 of 26 nums
+Epoch 79/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.7246816158294678 detector_loss: 0.6776024103164673 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0470791831612587 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 0.8495720624923706 detector_loss: 0.6844825148582458 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16508951783180237 of 26 nums
+Epoch 80/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.24it/s]
+train overall loss: 0.7165613174438477 detector_loss: 0.6732146143913269 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04334672912955284 of 242 nums
+STARTING PHASE: val
+saving model for epoch 80...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8539342284202576 detector_loss: 0.7023939490318298 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15154029428958893 of 26 nums
+Epoch 81/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.731886625289917 detector_loss: 0.6912090182304382 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04067758470773697 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8490920662879944 detector_loss: 0.6867857575416565 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.16230632364749908 of 26 nums
+Epoch 82/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.25it/s]
+train overall loss: 0.7233296036720276 detector_loss: 0.6823638677597046 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.040965743362903595 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.834312915802002 detector_loss: 0.6871731877326965 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1471397578716278 of 26 nums
+Epoch 83/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.7131069302558899 detector_loss: 0.6706954836845398 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0424114353954792 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.38s/it]
+val overall loss: 0.8473011255264282 detector_loss: 0.6928398609161377 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15446124970912933 of 26 nums
+Epoch 84/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.19it/s]
+train overall loss: 0.7109066247940063 detector_loss: 0.6684229373931885 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04248365759849548 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.31s/it]
+val overall loss: 0.845008373260498 detector_loss: 0.7057799696922302 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13922838866710663 of 26 nums
+Epoch 85/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:26<00:00,  1.19it/s]
+train overall loss: 0.7067121267318726 detector_loss: 0.6650221347808838 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04168999195098877 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8660421967506409 detector_loss: 0.6928606629371643 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.17318151891231537 of 26 nums
+Epoch 86/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.7060840725898743 detector_loss: 0.6643375158309937 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.04174654558300972 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.8334691524505615 detector_loss: 0.6885420680046082 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14492711424827576 of 26 nums
+Epoch 87/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.7051205635070801 detector_loss: 0.6657840609550476 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03933647647500038 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.8234226107597351 detector_loss: 0.6889798641204834 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13444273173809052 of 26 nums
+Epoch 88/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.6957111954689026 detector_loss: 0.6568289995193481 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03888218104839325 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.8169487118721008 detector_loss: 0.6762589812278748 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14068973064422607 of 26 nums
+Epoch 89/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.24it/s]
+train overall loss: 0.6950828433036804 detector_loss: 0.6583458781242371 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.036736954003572464 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 0.8282866477966309 detector_loss: 0.6894839406013489 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1388026773929596 of 26 nums
+Epoch 90/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.6917505860328674 detector_loss: 0.6531439423561096 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.038606636226177216 of 242 nums
+STARTING PHASE: val
+saving model for epoch 90...
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.28s/it]
+val overall loss: 0.8175656795501709 detector_loss: 0.6805826425552368 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13698305189609528 of 26 nums
+Epoch 91/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.7002388834953308 detector_loss: 0.6621997356414795 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03803914785385132 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.33s/it]
+val overall loss: 0.8177768588066101 detector_loss: 0.677609384059906 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1401674598455429 of 26 nums
+Epoch 92/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.6896377205848694 detector_loss: 0.6529057621955872 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03673197329044342 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.32s/it]
+val overall loss: 0.846058189868927 detector_loss: 0.702832818031311 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14322535693645477 of 26 nums
+Epoch 93/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.6975428462028503 detector_loss: 0.6608799695968628 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03666289523243904 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.35s/it]
+val overall loss: 0.8569550514221191 detector_loss: 0.7017073035240173 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.15524771809577942 of 26 nums
+Epoch 94/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.6858832240104675 detector_loss: 0.6520038843154907 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0338793620467186 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.37s/it]
+val overall loss: 0.8131422996520996 detector_loss: 0.6730579137802124 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1400844007730484 of 26 nums
+Epoch 95/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.27it/s]
+train overall loss: 0.6811014413833618 detector_loss: 0.6454347968101501 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03566662594676018 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 0.8455119132995605 detector_loss: 0.6911467909812927 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.1543651521205902 of 26 nums
+Epoch 96/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.21it/s]
+train overall loss: 0.6791592240333557 detector_loss: 0.645804226398468 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03335501626133919 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.27s/it]
+val overall loss: 0.8061701655387878 detector_loss: 0.6654278635978699 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14074231684207916 of 26 nums
+Epoch 97/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.26it/s]
+train overall loss: 0.674003541469574 detector_loss: 0.6390500068664551 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.0349535271525383 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.34s/it]
+val overall loss: 0.828012228012085 detector_loss: 0.6820729374885559 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.14593929052352905 of 26 nums
+Epoch 98/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:24<00:00,  1.28it/s]
+train overall loss: 0.6827797293663025 detector_loss: 0.6497370600700378 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03304268419742584 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.30s/it]
+val overall loss: 0.7935945391654968 detector_loss: 0.6658894419670105 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.12770511209964752 of 26 nums
+Epoch 99/99
+STARTING PHASE: train
+----------phase:train	 PKE_learn:False----------
+LR 0.0001
+100% 31/31 [00:25<00:00,  1.22it/s]
+train overall loss: 0.6776160001754761 detector_loss: 0.6447322368621826 of 242 nums, #avg learned keypoints:0.0  descriptor_loss: 0.03288378566503525 of 242 nums
+STARTING PHASE: val
+----------phase:val	 PKE_learn:False----------
+100% 4/4 [00:05<00:00,  1.36s/it]
+val overall loss: 0.7959861755371094 detector_loss: 0.6617874503135681 of 26 nums, #avg learned keypoints:0.0  descriptor_loss: 0.13419871032238007 of 26 nums
